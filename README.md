@@ -30,10 +30,10 @@ Here are some of my notable projects:
 [Docker](https://www.docker.com/get-started/)
 
 ## GitHub Stats
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=miahenri&show_icons=true&theme=radical)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotimmr&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miahenri&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotimmr&layout=compact&theme=radical)
 
 Thank you for visiting my profile!
 Feel free to check out my repositories and get in touch!
