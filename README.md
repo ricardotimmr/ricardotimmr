@@ -1,4 +1,4 @@
-# Hi there, I'm Mia!🌟 
+# Hi there, I'm Ricardo!🌟 
 I am a passionate software developer with a keen interest in web design and web development. I enjoy learning new technologies and applying them to solve real-world problems.
 Please check out my [portfolio!](https://ricardotimmr.github.io/portfolio-page/)
 
