@@ -17,17 +17,25 @@ Here are some of my notable projects:
 - [ProxyParcelBox](https://github.com/ricardotimmr/proxyparcelbox_ricardo_timm) - ProxyParcelBox is a web-based platform that helps users identify which neighbor accepted their package when they weren’t home and allows them to arrange a convenient pickup time.
 
 
-## Technologies & Tools
-- Programming Languages: [Kotlin](https://kotlinlang.org/docs/home.html),
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), 
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS),
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Frameworks & Libraries: [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-- Tools & Platforms: [GitHub](https://github.com),
-[Figma](https://www.figma.com/de-de/),
-[VS Code](https://code.visualstudio.com), 
-[IntelliJ](https://www.jetbrains.com/de-de/idea/),
-[Docker](https://www.docker.com/get-started/)
+## Technologies & Tools  
+
+- **Programming Languages:**  
+  [Kotlin](https://kotlinlang.org/docs/home.html),  
+  [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),  
+  [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS),  
+  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+
+- **Frameworks & Libraries:**  
+  [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white),  
+  [Vue.js](https://vuejs.org),  
+  [Sharp](https://sharp.pixelplumbing.com/)  
+
+- **Tools & Platforms:**  
+  [GitHub](https://github.com),  
+  [Figma](https://www.figma.com/de-de/),  
+  [VS Code](https://code.visualstudio.com),  
+  [IntelliJ](https://www.jetbrains.com/de-de/idea/),  
+  [Docker](https://www.docker.com/get-started/)  
 
 ## GitHub Stats
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotimmr&show_icons=true&theme=radical)
