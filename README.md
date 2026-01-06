@@ -2,7 +2,7 @@
 I am a passionate software developer with a keen interest in web design and web development. I enjoy learning new technologies and applying them to solve real-world problems.
 Please check out my [portfolio!](https://ricardotimmr.github.io/portfolio-page/)
 
-👨🏽‍💻 At the moment I’m working on [Praxisprojekt](https://github.com/ricardotimmr/praxisprojekt-2025)<br>
+👨🏽‍💻 At the moment I’m preparing for my Bachelor Thesis<br>
 📚 I’m currently studying Media Informatics at TH Köln<br>
 💬 Ask me about webdesign and development<br>
 📮 How to reach me: ricardo.timmr@gmail.com<br>
@@ -10,7 +10,7 @@ Please check out my [portfolio!](https://ricardotimmr.github.io/portfolio-page/)
 ## Projects
 Here are some of my notable projects:
 
-- [Praxisprojekt](https://github.com/ricardotimmr/praxisprojekt-2025) - 
+- [Praxisprojekt](https://github.com/ricardotimmr/praxisprojekt-2025) -  The project aims to create a web-based tool that lets teams visually design interactive, brand-compliant product modules—such as sliders or 360° viewers—and export them as reusable Web Components for easy integration into websites.
 - [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify) - The web application Shrinkify automatically optimizes large files, such as images, videos, and audio, by compressing them before they are uploaded to a content management system (CMS).
 - [BrushTalk](https://github.com/ricardotimmr/iot-brushtalkdevice) - BrushTalk is a project designed to connect with your long distance friends. The device records audio messages up to 3 minutes long and sends them to your friends. That way your friends can listen to your stories while brushing their teeth.
 - [Groovents](https://github.com/ricardotimmr/timm_henrichsmeyer_zink_GDW_WS2324) - Groovents is a web service to find concerts and events for your taste in music. It shows concerts on the next few days in your area and also checks the weather for possible open air venues.
