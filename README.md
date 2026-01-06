@@ -24,14 +24,18 @@ Here are some of my notable projects:
   [Kotlin](https://kotlinlang.org/docs/home.html),  
   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),  
   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS),  
-  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),  
+  [TypeScript](https://www.typescriptlang.org/) 
 
 - **Frameworks & Libraries:**  
   [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white),  
   [Vue.js](https://vuejs.org),  
-  [Sharp](https://sharp.pixelplumbing.com/)  
+  [React](https://react.dev),  
+  [Tailwind CSS](https://tailwindcss.com),  
+  [Sharp](https://sharp.pixelplumbing.com/) 
 
-- **Tools & Platforms:**  
+- **Tools & Platforms:**
+  [Vite](https://vitejs.dev),
   [GitHub](https://github.com),  
   [Figma](https://www.figma.com/de-de/),  
   [VS Code](https://code.visualstudio.com),  
