@@ -21,26 +21,13 @@ Here are some of my notable projects:
 ## Technologies & Tools  
 
 - **Programming Languages:**  
-  [Kotlin](https://kotlinlang.org/docs/home.html),  
-  [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),  
-  [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS),  
-  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),  
-  [TypeScript](https://www.typescriptlang.org/) 
+  [Kotlin](https://kotlinlang.org/docs/home.html), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/) 
 
 - **Frameworks & Libraries:**  
-  [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white),  
-  [Vue.js](https://vuejs.org),  
-  [React](https://react.dev),  
-  [Tailwind CSS](https://tailwindcss.com),  
-  [Sharp](https://sharp.pixelplumbing.com/) 
+  [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white), [Vue.js](https://vuejs.org), [React](https://react.dev), [Tailwind CSS](https://tailwindcss.com), [Sharp](https://sharp.pixelplumbing.com/) 
 
 - **Tools & Platforms:**
-  [Vite](https://vitejs.dev),
-  [GitHub](https://github.com),  
-  [Figma](https://www.figma.com/de-de/),  
-  [VS Code](https://code.visualstudio.com),  
-  [IntelliJ](https://www.jetbrains.com/de-de/idea/),  
-  [Docker](https://www.docker.com/get-started/)  
+  [Vite](https://vitejs.dev), [GitHub](https://github.com), [Figma](https://www.figma.com/de-de/), [VS Code](https://code.visualstudio.com), [IntelliJ](https://www.jetbrains.com/de-de/idea/), [Docker](https://www.docker.com/get-started/)  
 
 ## GitHub Stats
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotimmr&show_icons=true&theme=radical)
