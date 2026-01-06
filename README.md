@@ -20,10 +20,10 @@ Here are some of my notable projects:
 
 ## Technologies & Tools  
 
-- **Programming Languages:**  
+- **Programming Languages:**
   [Kotlin](https://kotlinlang.org/docs/home.html), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/) 
 
-- **Frameworks & Libraries:**  
+- **Frameworks & Libraries:**
   [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white), [Vue.js](https://vuejs.org), [React](https://react.dev), [Tailwind CSS](https://tailwindcss.com), [Sharp](https://sharp.pixelplumbing.com/) 
 
 - **Tools & Platforms:**
