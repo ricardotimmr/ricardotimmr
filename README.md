@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo!
 I am a passionate software developer with a keen interest in web design and web development. I enjoy learning new technologies and applying them to solve real-world problems.
-Please check out my [portfolio!](https://ricardotimmr.github.io/portfolio-page/)
+Please check out my WIP [portfolio!](https://ricardotimmr.github.io/portfolio-page/)
 
 👨🏽‍💻 At the moment I’m preparing for my Bachelor Thesis<br>
 📚 I’m currently studying Media Informatics at TH Köln<br>
