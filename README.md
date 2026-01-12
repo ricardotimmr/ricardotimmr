@@ -29,11 +29,9 @@ Here are some of my notable projects:
 - **Tools & Platforms:**
   [Vite](https://vitejs.dev), [GitHub](https://github.com), [Figma](https://www.figma.com/de-de/), [VS Code](https://code.visualstudio.com), [IntelliJ](https://www.jetbrains.com/de-de/idea/), [Docker](https://www.docker.com/get-started/)  
 
-## GitHub Stats
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotimmr&show_icons=true&theme=radical)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotimmr&show_icons=true&theme=radical&cache_seconds=1800)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotimmr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotimmr&layout=compact&theme=radical&cache_seconds=1800)
 
 Thank you for visiting my profile!
 Feel free to check out my repositories and get in touch!
