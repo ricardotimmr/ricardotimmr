@@ -4,7 +4,7 @@ Frontend Developer & UX/UI Designer based in Germany.
 Currently finishing my Bachelor’s degree in Media Informatics at TH Köln.
 
 Portfolio (Work in Progress):  
-https://your-portfolio-link.com
+[https://your-portfolio-link.com](https://ricardo-timm.com/)
 
 I design and build digital products that combine structure, aesthetics, and usability.  
 My focus lies in creating modular, scalable web experiences — from interactive product modules to performance-optimized applications.
