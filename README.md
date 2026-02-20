@@ -1,33 +1,114 @@
-# Hi there, I'm Ricardo!
-I am a passionate software developer with a keen interest in web design and web development. I enjoy learning new technologies and applying them to solve real-world problems.
-Please check out my WIP [portfolio!](https://ricardotimmr.github.io/portfolio-page/)
+# Hi, I’m Ricardo
 
-👨🏽‍💻 At the moment I’m preparing for my Bachelor Thesis<br>
-📚 I’m currently studying Media Informatics at TH Köln<br>
-💬 Ask me about webdesign and development<br>
-📮 How to reach me: ricardo.timmr@gmail.com<br>
+Frontend Developer & UX/UI Designer based in Germany.  
+Currently finishing my Bachelor’s degree in Media Informatics at TH Köln.
 
-## Projects
-Here are some of my notable projects:
+Portfolio (Work in Progress):  
+https://your-portfolio-link.com
 
-- [Praxisprojekt](https://github.com/ricardotimmr/praxisprojekt-2025) -  The project aims to create a web-based tool that lets teams visually design interactive, brand-compliant product modules—such as sliders or 360° viewers—and export them as reusable Web Components for easy integration into websites.
-- [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify) - The web application Shrinkify automatically optimizes large files, such as images, videos, and audio, by compressing them before they are uploaded to a content management system (CMS).
-- [BrushTalk](https://github.com/ricardotimmr/iot-brushtalkdevice) - BrushTalk is a project designed to connect with your long distance friends. The device records audio messages up to 3 minutes long and sends them to your friends. That way your friends can listen to your stories while brushing their teeth.
-- [Groovents](https://github.com/ricardotimmr/timm_henrichsmeyer_zink_GDW_WS2324) - Groovents is a web service to find concerts and events for your taste in music. It shows concerts on the next few days in your area and also checks the weather for possible open air venues.
-- [PomodoroPro](https://github.com/ricardotimmr/PomodoPro-Team22) - This android app is a Pomodoro timer for a better studying experience.
-- [ProxyParcelBox](https://github.com/ricardotimmr/proxyparcelbox_ricardo_timm) - ProxyParcelBox is a web-based platform that helps users identify which neighbor accepted their package when they weren’t home and allows them to arrange a convenient pickup time.
+I design and build digital products that combine structure, aesthetics, and usability.  
+My focus lies in creating modular, scalable web experiences — from interactive product modules to performance-optimized applications.
 
+My interests include:
+- Design Systems & Component Architecture  
+- Interactive Product Visualization  
+- Clean UI with meaningful micro-interactions  
+- Bridging concept, design, and implementation  
 
-## Technologies & Tools  
+---
 
-- **Programming Languages:**
-  [Kotlin](https://kotlinlang.org/docs/home.html), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/) 
+## Featured Projects
 
-- **Frameworks & Libraries:**
-  [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white), [Vue.js](https://vuejs.org), [React](https://react.dev), [Tailwind CSS](https://tailwindcss.com), [Sharp](https://sharp.pixelplumbing.com/) 
+### Praxisprojekt – Modular Web Tool for Interactive Product Modules  
+Repository:  
+https://github.com/ricardotimmr/praxisprojekt-2025  
 
-- **Tools & Platforms:**
-  [Vite](https://vitejs.dev), [GitHub](https://github.com), [Figma](https://www.figma.com/de-de/), [VS Code](https://code.visualstudio.com), [IntelliJ](https://www.jetbrains.com/de-de/idea/), [Docker](https://www.docker.com/get-started/)  
+A web-based tool that enables teams to visually design interactive, brand-compliant product modules (e.g. sliders, 360° viewers, hotspot graphics) and export them as reusable Web Components.
 
-Thank you for visiting my profile!
-Feel free to check out my repositories and get in touch!
+Key aspects:
+- Component-based architecture  
+- CI-compliant configuration  
+- Live preview system  
+- Exportable reusable modules  
+- Built with React, Vite, Tailwind and TypeScript  
+
+---
+
+### Shrinkify – Smart Media Optimization Platform  
+https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify  
+
+A web application that automatically optimizes large media files (images, video, audio) before CMS upload.
+
+- Automated compression pipeline  
+- Admin dashboard  
+- Role-based access  
+- Performance-focused processing  
+
+---
+
+### BrushTalk – IoT Communication Device  
+https://github.com/ricardotimmr/iot-brushtalkdevice  
+
+A connected device that allows long-distance friends to exchange short voice messages while brushing their teeth.
+
+---
+
+### Groovents – Smart Concert Finder  
+https://github.com/ricardotimmr/timm_henrichsmeyer_zink_GDW_WS2324  
+
+A web service that recommends concerts based on music preferences and checks weather conditions for open-air venues.
+
+---
+
+### PomodoroPro – Android Study Timer  
+https://github.com/ricardotimmr/PomodoPro-Team22  
+
+A Kotlin-based Android application designed to enhance focused study sessions using the Pomodoro technique.
+
+---
+
+## Currently Working On
+
+- Refining my new portfolio website  
+- Preparing for my Bachelor Thesis  
+- Advancing my expertise in scalable frontend architecture  
+
+---
+
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### Backend & Processing
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sharp-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+
+---
+
+## Contact
+
+ricardo.timmr@gmail.com
+
+I am passionate about building digital products that feel intentional — not just functional.
